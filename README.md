@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Minh Khang.<br>Computer Science at HCMC Open University.
+Hi, I'm Minh Khang.<br>
+Senior Student in Computer Science Major.
 
 
 ## 🌐 Socials:
